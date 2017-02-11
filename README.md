@@ -1,2 +1,2 @@
-# cpp-logger
-📟 Simple non-blocking modern C++ logging library
+# 📟 Logger
+ Simple non-blocking modern C++ header-only logging library
